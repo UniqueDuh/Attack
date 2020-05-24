@@ -161,9 +161,9 @@ elif [ "$download" -eq "2"  ]; then
  chmod +x *
  clear
  echo -e "$g+++++++++++>[$pWelcome to the new update$p$g]<+++++++++++++"
- echo -e "     Hello      "
- echo -e "     $p     new "
- echo -e "     $g         Update "
+ echo -e "     Welcome      "
+ echo -e "     $p     back "
+ echo -e "     $g         Sensei! "
  sleep 2
  python2 Virus4.py
 else :
